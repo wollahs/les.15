@@ -1,0 +1,45 @@
+header{
+    background-color: #afafaf;
+    padding: 5px;
+    }
+    body{
+        background-color: #bd3434;
+        margin: 15px;
+        padding: 5px;
+        }
+        footer{
+            background-color: #afafaf;
+            padding: 5px;
+            }
+    ul a{
+        color: white;
+        text-decoration: none;
+        }
+        li{
+        display: inline-block;
+        height: 22px;
+        width: 100px;
+        padding: 20px;
+        text-align: center;
+        color: white;
+        border-left: 2px solid green;
+        border-right: 1px solid green;
+        background-color: rgb(18, 228, 147);
+        }
+        li:hover{
+        background-color: lightgreen;
+        border-style: none;
+        }
+        h1{
+        margin-left: 200px;
+        }
+        #titletable{
+            background-color: #024a5ce8;
+            }
+            #texttable{
+                background-color: #00ccffda;
+                }
+                form {
+                    color: white;
+                }
+                input[type="text"], input[type="email"], textarea, select, button{display: block;margin: 15px 0px;width: 400px;box-sizing: border-box;border-radius: 4px; box-shadow: inset 2px 2px 5px lightgreen;}textarea{height: 100px;padding: 5px 4px;}button:active{background-color: darkgreen;color: white;border-radius: 4px; box-shadow: inset 2px 2px 5px blue;}
